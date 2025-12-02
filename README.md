@@ -131,7 +131,7 @@ Team: 9 members
 ---
 
 ### Wellness CRM System & Healthcare Platform
-Team: 6 members | Spartan
+Team: 6 members
 
 **Description:** A comprehensive CRM system backend tailored for wellness spa professionals, integrated with healthcare functionalities. 
 
