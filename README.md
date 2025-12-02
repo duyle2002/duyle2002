@@ -5,7 +5,7 @@ Backend Engineer with 3 years of experience building scalable backend systems an
 
 ## 📋 Contact Information
 - **Email:** [duyphi2011@gmail. com](mailto:duyphi2011@gmail.com)
-- **LinkedIn:** [Phi Duy](https://www.linkedin. com/in/phi-duy-084745236/)
+- **LinkedIn:** [Phi Duy](https://www.linkedin.com/in/phi-duy-084745236/)
 
 ## 🎓 Education
 - **Da Nang University of Science and Technology**  
