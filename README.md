@@ -72,7 +72,7 @@ Built and maintained backend systems for multiple U.S.-based startups across AI,
 ---
 
 ### IZI Software
-**Intern Backend Developer** | (Previous Role)
+**Intern Backend Developer** | Jan 2023 - June 2023
 
 - Gained hands-on experience in backend development using NestJS and Node.js
 - Contributed to small-scale projects in e-commerce, IoT, and mobile applications
